@@ -5,7 +5,7 @@ using namespace std;
 
 // Graph class represents a directed graph
 // using adjacency list representation
-class Graph
+class Circle
 {
 public:
 	map<int, bool> visited;
